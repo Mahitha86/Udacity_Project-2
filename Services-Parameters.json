@@ -1,0 +1,10 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject-2"
+	},
+	{
+		"ParameterKey": "EmageId",
+		"ParameterValue": "ami-0d1cd67c26f5fca19"
+	}
+]
